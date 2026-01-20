@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is the Github account for the RIT GDD student Joshua DeWinter
 <!--
 **JDWRIT/JDWRIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
